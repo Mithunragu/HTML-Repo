@@ -1,0 +1,25 @@
+/* ID */
+#Kg{
+    background-color: rgb(14, 13, 13);
+    color: rgb(228, 232, 232);
+   ;
+}
+body{
+    background-color: rgb(135, 237, 128);
+}
+.Head_One{
+    font-style:oblique;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(81, 16, 233);
+}
+#audio{
+   margin: left 200px;
+   align-content: center;
+}
+.class{
+    border:solid 3px rgb(11, 11, 11);
+}
+.Head_Two{
+    border: solid 10px; color: #ec0b0b;
+}
